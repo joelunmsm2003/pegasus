@@ -1,5 +1,3 @@
-from keras.models import Sequential
-
-model = Sequential()
-
-print('hola')
+import pandas as pd
+reviews = pd.read_xls("sanmigue.xls", index_col=0)
+import seaborn as sns
