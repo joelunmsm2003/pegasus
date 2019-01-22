@@ -1,0 +1,134 @@
+Reporte de Citas 
+Fecha Generada : ;2018-11-26
+Nombre : ;Cesar
+Tipo Agente : ;Country Manager
+Inicio : ;2018-11-01
+Fin : ;2018-11-30
+
+Detalle de Citas Personales
+Semana;Fecha;Cliente;Tipo de Cita;Interes;Ramo;Compania;Producto;Tel. Movil;Direccion;Observaciones
+
+Detalle de Citas de Acompanamiento
+Semana;Fecha;Agente;Cliente;Tipo de Cita;Ramo;Compania;Producto;Observaciones
+
+Detalle de Citas de Equipo
+Semana;Fecha;Agente;Cliente;Tipo de Cita;Interes;Ramo;Compania;Producto;Telefono;Direccion;Observacion
+45;2018-11-05 ;Augusto Araujo F.;Jorge Baca;NP _;Interesado;Salud;BMI Health;Meridian II;2645000;San Isidro;_
+45;2018-11-05 ;Augusto Araujo F.;Carlos Aguilar;NP _;Interesado;Salud;Bupa;Advantage;2645000;San Isidro;_
+45;2018-11-06 ;Augusto Araujo F.;SIMON TUMA, STEVE ADOLFO _;POS _;_;Vida;BMI Life;Best Indexed;_;_;_
+45;2018-11-06 ;Augusto Araujo F.;Julio Nieri;Seg _;_;Investments;IT;S&P 500 Index;3724600;Surco;_
+45;2018-11-07 ;Augusto Araujo F.;Luis Vega;NP _;Interesado;Salud;BMI Health;Meridian II;6412000;Chorrillos;_
+45;2018-11-09 ;Augusto Araujo F.;Jose Vilcapoma;NP _;Interesado;Salud;BMI Health;Azure;3724236;Surco;_
+46;2018-11-14 ;Augusto Araujo F.;SIMON TUMA, STEVE ADOLFO _;POS _;_;Vida;BMI Life;Best Indexed;_;_;_
+46;2018-11-14 ;Augusto Araujo F.;SIMON TUMA, STEVE ADOLFO _;POS _;_;Vida;BMI Life;Best Indexed;_;_;_
+46;2018-11-16 ;Augusto Araujo F.;Arturo Arista;NP _;Interesado;Salud;BMI Health;Meridian II;3724000;Surco;_
+46;2018-11-16 ;Augusto Araujo F.;Jose Aservi;NP _;Interesado;Vida;BMI Life;Best Indexed;3726800;Surco;_
+44;2018-11-02 ;Carlos Monsalve;PIMENTEL ALIAGA , LISETTE _;POS _;_;Vida;BMI Life;Best Indexed;_;_;Se le. Visitó para hablar del rendimiento to de su póliza y ver la renovación de su póliza.
+45;2018-11-05 ;Carlos Monsalve;ROGELIO AGUILAR , JORGE _;POS _;_;Investments;IT;S&P 500 Index;_;_;Se le. Indicó el status de su plan de inversión se renovó la. Misma y envió recibo de pago
+45;2018-11-06 ;Carlos Monsalve;David Chavarria Arevalo;NP _;Muy Interesado;Vida;BMI Life;Best Indexed;934311574;Mz F-18 Calle Fernando Dolci - Chorrillos;Propuesta conyugal por 350K y 150K
+45;2018-11-06 ;Carlos Monsalve;David Chavarria Arevalo;NP _;Muy Interesado;Investments;IT;S&P 500 Index;934311574;Mz F-18 Calle Fernando Dolci - Chorrillos;Propuesta de 2400 aporte regular anual x 15 años.
+45;2018-11-08 ;Carlos Monsalve;VIGURIA CARPIO, LEONIDAS _;POS _;_;Vida;BMI Life;Best Indexed;_;_;Se realizó un cambio de vía de cobro de su póliza así como el cambio de Cesión que estaba a favor del GNB al banco Bcp.
+46;2018-11-12 ;Carlos Monsalve;ZEGARRA VIDAL , EDGAR LYNCOLN _;POS _;_;Salud;BMI Health;Protector;_;_;No continuará con la póliza.
+46;2018-11-12 ;Carlos Monsalve;ZEGARRA VIDAL , EDGAR LYNCOLN _;POS _;_;Vida;BMI Life;Best Indexed;_;_;Se le indico características de su póliza rendimientos así como la ruta para la transferencia de su renovación  Anual. Estamos a la espera de la confirmación.
+46;2018-11-12 ;Carlos Monsalve;MIGUEL CHIRI;NP _;Interesado;Vida;BMI Life;Best Indexed;_;_;Lo evaluará con su contador y verá si es viable el. SOCIETARIO
+45;2018-11-06 ;Karina Cedeno;Verdeflor Empresa;NP _;Interesado;Vida;BMI Life;Term 100;3588573;Surco;_
+45;2018-11-06 ;Karina Cedeno;Verdeflor Empresa;NP _;Interesado;Salud;Bupa;Advantage;3588573;Surco;_
+45;2018-11-06 ;Karina Cedeno;Marcela Jordan;NP _;Interesado;Investments;IT;S&P 500 Index;998106523;Surco;_
+45;2018-11-06 ;Karina Cedeno;Marcela Jordan;NP _;Interesado;Salud;BMI Health;Azure;998106523;Surco;_
+45;2018-11-06 ;Karina Cedeno;Marcela Jordan;NP _;Interesado;Vida;BMI Life;Term 100;998106523;Surco;_
+45;2018-11-08 ;Karina Cedeno;Cesar Sifuentes;NP _;Interesado;Vida;BMI Life;Term 100;_;Rivera navarrete;_
+45;2018-11-08 ;Karina Cedeno;Cesar Sifuentes;NP _;Interesado;Investments;IT;S&P 500 Index;_;Rivera navarrete;_
+45;2018-11-08 ;Karina Cedeno;Cesar Sifuentes;NP _;Interesado;Salud;BMI Health;Azure;_;Rivera navarrete;_
+45;2018-11-09 ;Karina Cedeno;Claudia Vigil;NP _;Interesado;Vida;BMI Life;Term 100;_;Surco;_
+45;2018-11-09 ;Karina Cedeno;Claudia Vigil;NP _;Interesado;Salud;BMI Health;Meridian II;_;Surco;_
+45;2018-11-09 ;Karina Cedeno;Antamina _;NP _;Interesado;Salud;Bupa;Advantage;_;Surco;Corporativa
+45;2018-11-09 ;Karina Cedeno;Antamina _;NP _;Interesado;Vida;BMI Life;Term 100;_;Surco;_
+45;2018-11-09 ;Karina Cedeno;Claudia Vigil;NP _;Interesado;Investments;IT;S&P 500 Index;_;Surco;_
+46;2018-11-15 ;Karina Cedeno;TATIANA LEPEYERE;NP _;Interesado;Salud;BMI Health;Azure;998123747;SURCO;_
+46;2018-11-15 ;Karina Cedeno;TATIANA LEPEYERE;NP _;Interesado;Vida;BMI Life;Best Indexed;998123747;SURCO;_
+46;2018-11-15 ;Karina Cedeno;Maria Jose Tamayo;NP _;Interesado;Salud;BMIec Salud;Hospicare;999466894;Ecuador;_
+46;2018-11-16 ;Karina Cedeno;ANTAMINA COMPAÑIA - Claudia Vigil;NP _;Interesado;Salud;Bupa;Exclusive;2173000;El Derby 055;Plan Corporativo
+46;2018-11-16 ;Karina Cedeno;Claudia Vigil;NP _;Interesado;Vida;BMI Life;Best Indexed;947888867;Surco;_
+46;2018-11-16 ;Karina Cedeno;Claudia Vigil;NP _;Interesado;Salud;BMI Health;Azure;947888867;Surco;_
+47;2018-11-21 ;Karina Cedeno;Grazia Seminario;NP _;Interesado;Vida;PAIIC;TERMINO 20;986660814;Cafeteria Sarcletti;_
+47;2018-11-21 ;Karina Cedeno;Grazia Seminario;NP _;Interesado;Salud;Bupa;Advantage;986660814;Cafeteria Sarcletti;_
+44;2018-11-02 ;Manuel Freire;Hernan Marroquin;NP _;Interesado;Salud;BMI Health;Meridian II;964175014;Calle La Chifa 141, Surco;Evaluando
+44;2018-11-02 ;Manuel Freire;Hernan Marroquin;NP _;Interesado;Investments;IT;S&P 500 Index;964175014;Calle La Chifa 141, Surco;Evaluando
+44;2018-11-02 ;Manuel Freire;Hernan Marroquin;NP _;Interesado;Salud;Bupa;Critical;964175014;Calle La Chifa 141, Surco;Evaluando
+45;2018-11-06 ;Manuel Freire;Carlos Llerena Morales;NP _;Interesado;Salud;Bupa;Critical;994030522;Av Cavenecia 264, San Isidro;Evaluando
+45;2018-11-06 ;Manuel Freire;Carlos Llerena Morales;NP _;Interesado;Salud;PC;Preferred Access;994030522;Av Cavenecia 264, San Isidro;Evaluando
+45;2018-11-06 ;Manuel Freire;Carlos Llerena Morales;NP _;Interesado;Salud;BMI Health;Meridian II;994030522;Av Cavenecia 264, San Isidro;Evaluando
+45;2018-11-06 ;Manuel Freire;Carlos Llerena Morales;NP _;Interesado;Investments;IT;S&P 500 Index;994030522;Av Cavenecia 264, San Isidro;Por presentar para evaluacion
+45;2018-11-08 ;Manuel Freire;Aníbal Aliaga Swidin;NP _;No Interesado;Salud;Bupa;Advantage;998345023;La Molina;No está condiciones porque ahorita se está preparando para el Dakar, pero puede ser un buen referidor
+45;2018-11-08 ;Manuel Freire;Hernan Llerena;NP _;Interesado en el futuro;Salud;Bupa;Critical;999090609;La Molina;Por ahora sólo le interesa in versión de renta fija
+45;2018-11-08 ;Manuel Freire;Hernan Llerena;NP _;No Interesado;Investments;IT;Access Portfolio;999090609;La Molina;Sólo quiere algo que le de una renta fija
+46;2018-11-12 ;Manuel Freire;Jaime Sandoval;Seg Nuevo Propuesta;_;Salud;PC;Preferred Access;999759255;Av Evitamiento 1980, Ate;Evaluando pre existencias
+46;2018-11-12 ;Manuel Freire;Jaime Sandoval;NP _;Interesado;Salud;BMI Health;Meridian II;999759255;Av Evitamiento 1980, Ate;Evaluando, le preocupan sus pre existencias
+46;2018-11-12 ;Manuel Freire;Jaime Sandoval;NP _;Interesado;Salud;BMI Health;Azure;999759255;Av Evitamiento 1980, Ate;Por evaluar
+46;2018-11-12 ;Manuel Freire;Milko Guerovich;NP _;Interesado en el futuro;Investments;IT;S&P 500 Index;990835818;Av Evitamiemto 1980, Ate;Por ahora no cree porque no tiene presupuesto
+46;2018-11-12 ;Manuel Freire;Milko Guerovich;NP _;Interesado en el futuro;Salud;Bupa;Critical;990835818;Av Evitamiemto 1980, Ate;Esta difícil por ahora no tiene presupuesto
+46;2018-11-14 ;Manuel Freire;Rodrigo De La Guerra;NP _;Interesado;Investments;IT;Access Portfolio;943553920;Bolivar 270, Miraflores;Evaluando
+46;2018-11-14 ;Manuel Freire;Rodrigo De La Guerra;NP _;Interesado;Investments;IT;S&P 500 Index;943553920;Bolivar 270, Miraflores;Evaluando
+47;2018-11-19 ;Manuel Freire;Cesar Luna Roman;NP _;Interesado;Salud;Bupa;Critical;981532829;Av Primavera 1449, Surco;Evaluara
+47;2018-11-19 ;Manuel Freire;Cesar Luna Roman;NP _;Interesado;Salud;BMI Health;Meridian II;981532829;Av Primavera 1449, Surco;No creo que tenga el presupuesto
+47;2018-11-19 ;Manuel Freire;Cesar Luna Roman;NP _;Interesado;Investments;IT;S&P 500 Index;981532829;Av Primavera 1449, Surco;No creo que tenga el presupuesto
+47;2018-11-20 ;Manuel Freire;Walter Pereda;NP _;Interesado;Salud;BMI Health;Meridian II;989015979;Andrés Reyes 3071, San Isidro;Evaluando 6 días
+47;2018-11-20 ;Manuel Freire;Walter Pereda;NP _;Interesado;Salud;Bupa;Critical;989015979;Andrés Reyes 3071, San Isidro;Evaluando 6 días
+45;2018-11-09 ;Mary Ann Franco;CECILIA TAGATA;NP _;Muy Interesado;Vida;BMI Life;Best Indexed;999261515;JUAN DE ARONA 720;_
+45;2018-11-11 ;Mary Ann Franco;WEBB LINARES , LOUISE JACQUELINE _;Seg Nuevo Propuesta;_;Salud;BMI Health;Azure;_;_;CLIENTA SOLICITO COTIZACION DE SALUD PARA TOMARLA DESPUES DEL 20 DE NOVIEMBRE. MUY INTERESADA YA QUE TIENE A SU CARGO DOS HIJOS MENORES (7) Y ESTA SOLA
+45;2018-11-11 ;Mary Ann Franco;CACERES ROMERO , JORGE ANDRES _;Seg Nuevo Propuesta;_;Investments;IT;S&P 500 Index;_;_;TOMARA EL PRODUCTO DESPUES DEL 15/11
+45;2018-11-05 ;Milagros Acosta;ROBERTO COLICHON;NP _;Interesado;Vida;BMI Life;Term 95;999999999;LIMA;_
+45;2018-11-05 ;Milagros Acosta;ROBERTO COLICHON;NP _;Interesado;Vida;BMI Life;Best Indexed;999999999;LIMA;_
+45;2018-11-06 ;Milagros Acosta;JENIFER GRANTHON;NP _;Interesado en el futuro;Salud;BMI Health;Azure;999999999;LIMA;_
+45;2018-11-08 ;Milagros Acosta;JUAN CARLOS RODRIGUEZ;NP _;Interesado en el futuro;Investments;IT;S&P 500 Index;999999999;LIMA;_
+45;2018-11-09 ;Milagros Acosta;VIOLETA ANDER;NP _;Interesado;Vida;BMI Life;Best Indexed;999999999;LIMA;_
+45;2018-11-09 ;Milagros Acosta;JORGE FERREYRA;NP _;Interesado;Vida;BMI Life;Best Indexed;999999999;LIMA;_
+46;2018-11-12 ;Milagros Acosta;RUTH AVENDAÑO;NP _;Interesado;Salud;PC;Preferred Access;999999999;LIMA;_
+46;2018-11-12 ;Milagros Acosta;RUTH AVENDAÑO;NP _;Interesado;Vida;BMI Life;Best Indexed;999999999;LIMA;_
+46;2018-11-12 ;Milagros Acosta;MANZANARES BARAHONA, ALEJANDRO MIGUEL _;POS _;_;Vida;NWL;Index Max;_;_;CAMBIO DE TARJETA DE CRÉDITO PARA SU SIGUIENTE RENOVACIÓN!!!
+46;2018-11-13 ;Milagros Acosta;MIGUEL ABANTO;NP _;Interesado;Salud;PC;Preferred Access;999999999;LIMA;_
+46;2018-11-13 ;Milagros Acosta;MIGUEL ABANTO;NP _;Interesado;Vida;BMI Life;Best Indexed;999999999;LIMA;_
+46;2018-11-13 ;Milagros Acosta;DIETER GARFIAS;NP _;Interesado;Vida;BMI Life;Best Indexed;999999999;LIMA;_
+46;2018-11-13 ;Milagros Acosta;Taisia Repetto;NP _;Interesado;Vida;BMI Life;Best Indexed;999999999;Lima;_
+46;2018-11-14 ;Milagros Acosta;MARIO AVILA;NP _;Interesado en el futuro;Salud;PC;Preferred Access;999999999;LIMA;_
+46;2018-11-14 ;Milagros Acosta;MARIO AVILA;NP _;Interesado;Vida;BMI Life;Best Indexed;999999999;LIMA;_
+46;2018-11-14 ;Milagros Acosta;MARIO AVILA;NP _;Interesado;Investments;IT;Access Portfolio;999999999;LIMA;_
+46;2018-11-14 ;Milagros Acosta;KARINA UBILLUS;NP _;Interesado;Vida;BMI Life;Best Indexed;999999999;LIMA;_
+46;2018-11-14 ;Milagros Acosta;MARIO AVILA;NP _;Muy Interesado;Investments;IT;Access Portfolio;999999999;LIMA;_
+46;2018-11-15 ;Milagros Acosta;MARIA JOQUIERA;NP _;No Interesado;Salud;PC;Preferred Access;999999999;LIMA;_
+46;2018-11-15 ;Milagros Acosta;MARIA JOQUIERA;NP _;Interesado;Vida;BMI Life;Best Indexed;999999999;LIMA;_
+44;2018-11-02 ;Milagros Barreto;ARAUCO MENGONI, RUNE JENS _;POS _;_;Vida;NWL;Nexterm;_;_;Lo llame al cliente ya que no tenia tiempo para reunirnos para confirmarle que su renovacion de poliza se proceso correctamente.Envie recibo de pago de conformidad. Todo ok.
+44;2018-11-02 ;Milagros Barreto;VASSALLO AGUIRRE, JUAN JOSE _;POS _;_;Vida;NWL;Index Max;_;_;LLame al dliente para poder revisar su poliza y proceder con su renovacion de la misma. En la proxima semana me reunire con el para poder llenar una nueva autorizacion de TC.
+44;2018-11-04 ;Milagros Barreto;IZA VALLADOLID, RAFAEL EDUARDO _;POS _;_;Vida;NWL;Nexterm;_;_;Estuve llamando y mandandole correos porque su seguro de  vida entro en periodo de gracia pero no tuve exito hasta hoy. El cliente me confirmo que la proxima semana nos vamos a reunir y regularizar todo.Su poliza esta inactiva desde el 31 de octubre del 18. Hacerle seguimiento.
+45;2018-11-05 ;Milagros Barreto;CONDE CORZO, JOSE LUIS _;POS _;_;Vida;BMI Life;Best Indexed;_;_;Lo contacte por telefono, cliente vive en Chiclayo, todo ok. Renovacion mensual.
+45;2018-11-05 ;Milagros Barreto;CONDE CORZO, JOSE LUIS _;POS _;_;Salud;BMI Health;Protector;_;_;Lo contacte por telefono, cliente vive en Chiclayo, todo ok. Renovacion anual.
+45;2018-11-05 ;Milagros Barreto;ARELLANO SALAS, ANA SOFIA _;POS _;_;Salud;BMI Health;Meridian II;_;_;El dia de hoy le envie un correo para podernos reunir la proxima semana. Intento cambiarle su plan de salud con BMI por la opcion guarantee. Hacerle seguimiento. Renovacion de poliza feb. 2019.
+45;2018-11-06 ;Milagros Barreto;VASSALLO AGUIRRE, JUAN JOSE _;POS _;_;Vida;NWL;Index Max;_;_;Lo estoy contactando hace varias semanas atras sin exito hasta hoy. Me confirmara cuando nos podemos reunir. Hacerle seguimiento, pendiente renovacion de poliza semestral.
+45;2018-11-06 ;Milagros Barreto;GUZMAN SOZA, FERNANDO PEDRO _;POS _;_;Vida;NWL;Nexterm;_;_;Lo llame el dia de hoy y se agendo una reunion para la proxima semana para ver su renovacion de poliza ahora en diciembre. Hacerle seguimiento.
+45;2018-11-06 ;Milagros Barreto;Claudia Lizama;POS _;_;Vida;NWL;Index Max;924572526;Jr Del Golf 766 La Planicie La Molina;Hoy contacte a su esposo, Juan Jose Vassallo. Pendiente de confirmacionn de reunion. Hacer seguimiento.
+45;2018-11-06 ;Milagros Barreto;VASSALLO AGUIRRE, JUAN JOSE _;Seg Nuevo Propuesta;_;Vida;NWL;Index Select;_;_;_
+46;2018-11-18 ;Milagros Barreto;Jaime Martin Li Wuang;Cierre _;_;Vida;PAIIC;Centennial;_;_;_
+44;2018-11-02 ;Patricia Martel;HUAMAN LA TORRE, ELADIO _;POS _;_;Investments;IT;S&P 500 Index;_;_;SOLICITÓ CAMBIO DE MODALIDAD A MENSUAL.
+45;2018-11-05 ;Patricia Martel;Rosmery Cuya;NP _;Muy Interesado;Vida;BMI Life;Best Indexed;941457745;Dos de Mayo1099 San Isidro;_
+45;2018-11-06 ;Patricia Martel;Natalia Bustos;NP _;Interesado;Salud;Bupa;Advantage;951628733;Victor A. Belaunde 147 San Isidro;_
+45;2018-11-07 ;Patricia Martel;Carlos Vallarino;NP _;Interesado;Vida;BMI Life;Best Indexed;49740028986;Bucarest - Rumanía;_
+45;2018-11-07 ;Patricia Martel;Carlos Vallarino;NP _;Interesado;Investments;IT;S&P 500 Index;49740028986;Bucarest - Rumanía;_
+45;2018-11-08 ;Patricia Martel;Juan Pablo Artaza;NP _;Interesado;Salud;BMIec Salud;Meridian II;40743201669;Bucarest Rumania;_
+45;2018-11-08 ;Patricia Martel;Juan Pablo Artaza;NP _;Interesado;Salud;Bupa;Advantage;40743201669;Bucarest Rumania;_
+46;2018-11-13 ;Patricia Martel;MARITE CARDENAS;NP _;Interesado;Vida;BMI Life;Best Indexed;989256354;BENAVIDES 2140 MIRAFLORES;"TIENE UN SEGURO LOCAL DE AHORRO UNIVERSITARIO.
+DESEA CONOCER LA PROPUESTA INTERNACIONAL."
+47;2018-11-22 ;Patricia Martel;BARRIOS PAUCAR , CARLOS ERNESTO _;POS _;_;Salud;BMI Health;Protector;_;_;"RENOVARÁ PÓLIZA
+REALIZARÁ TRANSFERENCIA BANCARIA A BMI POR CONCEPTO DE RENOVACIÓN 01/12/18."
+47;2018-11-22 ;Patricia Martel;BARRIOS PAUCAR , CARLOS ERNESTO _;POS _;_;Salud;BMI Health;Protector;_;_;renovo, hice transferencia a bmi
+47;2018-11-23 ;Patricia Martel;RIVERA NUÑEZ, ERICH ELLIOT _;POS _;_;Vida;PAIIC;NexGen;_;_;"SOLICITÓ CAMBIO DE MODALIDAD A MENSUAL, SE ENVIÓ CORREO DE CAMBIO A MAYRA GARCIA.
+INTERESADO EN INDEXADO."
+47;2018-11-22 ;Verónica Córdova G.;Rosa Villa;NP _;Interesado;Vida;BMI Life;Multiterm;3333333333;Av. Victor Andres Belaunde 181 san isidro;lllll
+45;2018-11-06 ;Víctor Ugarte;ANDRADE IPINCE, ALICIA MARIA _;POS _;_;Investments;IT;S&P 500 Index;_;_;clienta adelanto pagos ok con su seguro e IT
+45;2018-11-06 ;Víctor Ugarte;GAMERO KINOSITA , FERNANDO _;POS _;_;Vida;BMI Life;Term 95;_;_;cliente pago su renovación, esta interesado en salud
+45;2018-11-09 ;Víctor Ugarte;LOPEZ TORRES NAVEDA, ELIANA ISABEL _;POS _;_;Vida;NWL;Index Select;_;_;clienta esta pagando su póliza mensual un poco atrasada
+45;2018-11-09 ;Víctor Ugarte;CHEVARRIA ARRIETA , CHRISTIAN MIGUEL _;POS _;_;Vida;BMI Life;Best Indexed;_;_;clienta con atrasos en ambas pólizas el 22 de este mes regularizara ambos pagos.
+46;2018-11-15 ;Víctor Ugarte;TERRY MORA, RENATO EDUARDO _;POS _;_;Vida;BMI Life;Term 95;_;_;cliente desea nueva póliza index
+46;2018-11-16 ;Víctor Ugarte;TERRY MORA, RENATO EDUARDO _;POS _;_;Vida;BMI Life;Term 95;_;_;cliente interesado en seguro universitario en diciembre
+46;2018-11-16 ;Víctor Ugarte;CHOCCECHANCA CUADRO, EMILIANO LUIS _;POS _;_;Vida;BMI Life;Term 95;_;_;ok cliente pagara su renovación próxima semana
+46;2018-11-16 ;Víctor Ugarte;AVILA GONZALES, GLADYS RAQUEL _;POS _;_;Vida;BMI Life;Best Indexed;_;_;clienta ya no tiene hipoteca pero desea continuar con el seguro de forma mensual
+47;2018-11-19 ;Víctor Ugarte;BLANCO BERRU, JULY MARGOT _;POS _;_;Vida;BMI Life;Term 100;_;_;clienta interesada en tener un nuevo seguro index o cambiar su termino en diciembre define

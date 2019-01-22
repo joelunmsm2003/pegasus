@@ -1,0 +1,16 @@
+Reporte de Citas 
+Fecha Generada : ;2018-11-26
+Nombre : ;IFA A
+Tipo Agente : ;Private Client Advisor
+Inicio : ;2018-11-01
+Fin : ;2018-11-30
+
+Detalle de Citas Personales
+Semana;Fecha;Cliente;Tipo de Cita;Interes;Ramo;Compania;Producto;Tel. Movil;Direccion;Observaciones
+47;2018-11-22 ;A5 Prueba;Seg  ;_;Ramos Generales;Liberty;Vehculos;'123654789;dsfsdfs;Esto es una prueba
+
+Detalle de Citas de Acompanamiento
+Semana;Fecha;Agente;Cliente;Tipo de Cita;Ramo;Compania;Producto;Observaciones
+
+Detalle de Citas de Equipo
+Semana;Fecha;Agente;Cliente;Tipo de Cita;Interes;Ramo;Compania;Producto;Telefono;Direccion;Observacion

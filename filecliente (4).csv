@@ -1,0 +1,37 @@
+Reporte de Citas 
+Fecha Generada : ;2018-11-26
+Nombre : ;IFA A
+Tipo Agente : ;Private Client Advisor
+Inicio : ;2018-01-01
+Fin : ;2018-11-30
+
+Detalle de Citas Personales
+Semana;Fecha;Cliente;Tipo de Cita;Interes;Ramo;Compania;Producto;Tel. Movil;Direccion;Observaciones
+18;2018-05-01 ;A1 Prueba;NP  ;Muy Interesado;Vida;BMI Life;Best Indexed;'123654789;askcnsasijdn;pDPAODIjancoasin
+18;2018-05-01 ;A1 Prueba;NP  ;Interesado;Salud;PC;World Access;'123654789;askcnsasijdn;adxAD
+18;2018-05-01 ;A1 Prueba;NP  ;Interesado en el futuro;Investments;IT;S&P 500 Index;'123654789;askcnsasijdn;zxxXz sc
+18;2018-05-01 ;A1 Prueba;NP  ;Interesado;Ramos Generales;Liberty;Vehculos;'123654789;askcnsasijdn;xxc vfadfa
+18;2018-05-01 ;A1 Prueba;NP  ;Muy Interesado;CFP;CFP;CFP;'123654789;askcnsasijdn;ZXX
+18;2018-05-02 ;A3 Prueba;NP  ;Interesado;Vida;PAIIC;Tradition Plus;'456987123;asdasdasd;sdasdasd
+18;2018-05-02 ;A3 Prueba;NP  ;Interesado;Salud;BMIec Salud;Sigma;'456987123;asdasdasd;aasx
+18;2018-05-02 ;A1 Prueba;Seg  ;_;Salud;PC;World Access;'123654789;askcnsasijdn;bouhb uy iuy uyg iu
+18;2018-05-02 ;A2 Prueba;NP  ;Muy Interesado;Vida;NWL;Index Select;'123654789;asdasdaw;dasadF
+18;2018-05-02 ;A3 Prueba;NP  ;Interesado;Investments;IT;Evolution;'456987123;asdasdasd;XXXDZx
+18;2018-05-05 ;A3 Prueba;Cierre  ;_;Vida;PAIIC;Tradition Plus;'456987123;asdasdasd;
+18;2018-05-05 ;A2 Prueba;Cierre  ;_;Vida;NWL;Index Select;'123654789;asdasdaw;
+18;2018-05-05 ;A1 Prueba;Cierre  ;_;Salud;PC;World Access;'123654789;askcnsasijdn;
+19;2018-05-08 ;A4 Prueba;NP  ;Interesado en el futuro;Vida;BMI Life;Term 100;'456789123;sdasdad;sdasdasd
+19;2018-05-08 ;A4 Prueba;NP  ;Muy Interesado;Investments;IT;S&P 500 Index;'456789123;sdasdad;adsasdad
+19;2018-05-09 ;A4 Prueba;Cierre  ;_;Vida;BMI Life;Term 100;'456789123;sdasdad;
+19;2018-05-09 ;A5 Prueba;NP  ;Muy Interesado;Ramos Generales;Liberty;Vehculos;'123654789;dsfsdfs;asdasd
+20;2018-05-14 ;Hshs Vsvvs;Cierre  ;_;Vida;NWL;Ultimate;'7887;Hshs;
+20;2018-05-14 ;A1 Prueba;POS  ;_;Salud;PC;World Access;'123654789;askcnsasijdn;dfasdad
+20;2018-05-14 ;Hshs Vsvvs;NP  ;Interesado;Vida;NWL;Ultimate;'7887;Hshs;Bxbxz
+23;2018-06-06 ;Jshs Hzhs;NP  ;Interesado;Vida;NWL;Ultimate;'51980729169;Hzhs;Bzbsbs
+47;2018-11-22 ;A5 Prueba;Seg  ;_;Ramos Generales;Liberty;Vehculos;'123654789;dsfsdfs;Esto es una prueba
+
+Detalle de Citas de Acompanamiento
+Semana;Fecha;Agente;Cliente;Tipo de Cita;Ramo;Compania;Producto;Observaciones
+
+Detalle de Citas de Equipo
+Semana;Fecha;Agente;Cliente;Tipo de Cita;Interes;Ramo;Compania;Producto;Telefono;Direccion;Observacion
